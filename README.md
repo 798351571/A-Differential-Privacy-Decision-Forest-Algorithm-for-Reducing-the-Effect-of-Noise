@@ -3,7 +3,7 @@
 
 
  Dataset  | Number of samples  |  Number of attributes  |  Number of classes
- ---- | ----- | ------  
+ ---- | ----- | ------  | ------
  Adult  | 48842 | 14 | 2
  Mushroom  | 8124 | 22 | 2
  Pima  | 768 | 9 | 2

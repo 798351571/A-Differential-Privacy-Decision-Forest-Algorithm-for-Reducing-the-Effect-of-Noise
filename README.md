@@ -12,11 +12,11 @@
  Compare and contrast methods:TpDPRF[15],SNR[7]
   ## Reference
 1. Bache, K., Lichman, M.: Uci machine learning repository (2013)
-2. Blum, A., Dwork, C., McSherry, F., Nissim, K.: Practical privacy: the sulq framework. In: Proceedings of the Twenty-Fourth ACM SIGMOD-SIGACT-SIGART
-Symposium on Principles of Database Systems. p. 128–138. PODS ’05, Association for Computing Machinery, New York, NY, USA (2005)
+2. Blum, A., Dwork, C., McSherry, F., Nissim, K.: Practical privacy: the sulq framework. In: Proceedings of the Twenty-Fourth ACM SIGMOD-SIGACT-SIGART
+Symposium on Principles of Database Systems. p. 128–138. PODS ’05, Association for Computing Machinery, New York, NY, USA (2005)
 3. Dong, Y., Zhang, S., Xu, J., Wang, H., Liu, J.: Random forest algorithm based on
 linear privacy budget allocation. J. Database Manage. 33(2), 1–19 (aug 2022)
-4. Dwork, C.: Differential privacy. In: Proceedings of the 33rd International Conference on Automata, Languages and Programming - Volume Part II. p. 1–12.
+4. Dwork, C.: Differential privacy. In: Proceedings of the 33rd International Conference on Automata, Languages and Programming - Volume Part II. p. 1–12.
 ICALP’06, Springer-Verlag, Berlin, Heidelberg (2006)
 5. Dwork, C., McSherry, F., Nissim, K., Smith, A.: Calibrating noise to sensitivity
 in private data analysis. In: Proceedings of the Third Conference on Theory of
@@ -34,13 +34,13 @@ survey. ACM Comput. Surv. 52(4) (aug 2019)
 of the 16th ACM SIGKDD International Conference on Knowledge Discovery and
 Data Mining. p. 493–502. KDD ’10, Association for Computing Machinery, New
 York, NY, USA (2010)
-11. Huang, Z., Lei, Y., Kabán, A.: Noise-efficient learning of differentially private partitioning machine ensembles. In: ECML/PKDD (2022)
+11. Huang, Z., Lei, Y., Kabán, A.: Noise-efficient learning of differentially private partitioning machine ensembles. In: ECML/PKDD (2022)
 12. Jagannathan, G., Pillaipakkamnatt, K., Wright, R.N.: A practical differentially
 private random decision tree classifier. Trans. Data Privacy 5(1), 273–295 (apr
 2012)
-13. Li, X., Qin, B., Luo, Y., Zheng, D.: A differential privacy budget allocation algorithm based on out-of-bag estimation in random forest. Mathematics 10(22)
+13. Li, X., Qin, B., Luo, Y., Zheng, D.: A differential privacy budget allocation algorithm based on out-of-bag estimation in random forest. Mathematics 10(22)
 (2022)
-14. Li, Y., Feng, Y., Qian, Q.: Fdpboost: Federated differential privacy gradient boosting decision trees. Journal of Information Security and Applications 74, 103468
+14. Li, Y., Feng, Y., Qian, Q.: Fdpboost: Federated differential privacy gradient boosting decision trees. Journal of Information Security and Applications 74, 103468
 (2023)
 15. Liu, J., Li, X., Wei, Q., Liu, S., Liu, Z., Wang, J.: A two-phase random forest with
 differential privacy. Applied Intelligence 53(10), 13037–13051 (oct 2022)
@@ -52,14 +52,14 @@ Sensors 21(24) (2021)
 18. Manzali, Y., Akhiat, Y., Chahhou, M., Elmohajir, M., Zinedine, A.: Reducing the
 number of trees in a forest using noisy features. Evolving Systems 14, 157–174
 (2022)
-19. McSherry, F.: Privacy integrated queries: an extensible platform for privacypreserving data analysis. Commun. ACM 53(9), 89–97 (sep 2010)
-20. McSherry, F., Talwar, K.: Mechanism design via differential privacy. In: 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS’07). pp. 94–
+19. McSherry, F.: Privacy integrated queries: an extensible platform for privacypreserving data analysis. Commun. ACM 53(9), 89–97 (sep 2010)
+20. McSherry, F., Talwar, K.: Mechanism design via differential privacy. In: 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS’07). pp. 94–
 103 (2007)
 21. Mohammed, N., Chen, R., Fung, B.C., Yu, P.S.: Differentially private data release
-for data mining. In: Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. p. 493–501. KDD ’11, Association
+for data mining. In: Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. p. 493–501. KDD ’11, Association
 for Computing Machinery, New York, NY, USA (2011)
-22. Niu, X., Ma, W.: An ensemble learning model based on differentially private decision tree. Complex & Intelligent Systems pp. 1–14 (2023)
-23. Quinlan, J.R.: C4.5: Programs for Machine Learning. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA (1993)
+22. Niu, X., Ma, W.: An ensemble learning model based on differentially private decision tree. Complex & Intelligent Systems pp. 1–14 (2023)
+23. Quinlan, J.R.: C4.5: Programs for Machine Learning. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA (1993)
 24. Tayefi, M., Tajfard, M., Saffar, S., Hanachi, P., Amirabadizadeh, A.R., Esmaeily,
 H., Taghipour, A., Ferns, G.A., Moohebati, M., Ghayour-Mobarhan, M.: hs-crp
 is strongly associated with coronary heart disease (chd): A data mining approach

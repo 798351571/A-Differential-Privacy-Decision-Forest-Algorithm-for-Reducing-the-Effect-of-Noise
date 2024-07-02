@@ -1,6 +1,39 @@
 # A-Differential-Privacy-Decision-Forest-Algorithm-for-Reducing-the-Effect-of-Noise
-## Datasets
+## experimental environment
+Conda python3.6
+### DPDF-REN:
+import numpy as np
+import random
+import pandas as pd
+import queue
+import json
+from time import time
+import openpyxl
+import os
+### TpDPRF:
+import multiprocessing
+import random
+from collections import defaultdict
+from math import ceil, floor
+import numpy as np
+import pandas as pd
+from numba import jit
+from sklearn.metrics import precision_score, recall_score
+from sklearn.model_selection import train_test_split
+from tree import Tree
+from tool.mdlp import MDLPDiscretizer
+import openpyxl
+import os
+### SNR:
+from collections import Counter, defaultdict
+import random
+import numpy as np
+import math
+import pandas as pd
+import openpyxl
+import os
 
+## Datasets
 
  Dataset  | Number of samples  |  Number of attributes  |  Number of classes
  ---- | ----- | ------  | ------

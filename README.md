@@ -3,34 +3,35 @@
 Conda python3.6
 ### DPDF-REN:
 import numpy as np<br>
-import random
-import pandas as pd
-import queue
-import json
-from time import time
-import openpyxl
+import random<br>
+import pandas as pd<br>
+import queue<br>
+import json<br>
+from time import time<br>
+import openpyxl<br>
 import os
 ### TpDPRF:
-import multiprocessing
-import random
-from collections import defaultdict
-from math import ceil, floor
-import numpy as np
-import pandas as pd
-from numba import jit
-from sklearn.metrics import precision_score, recall_score
-from sklearn.model_selection import train_test_split
-from tree import Tree
-from tool.mdlp import MDLPDiscretizer
-import openpyxl
-import os
+import multiprocessing<br>
+import random<br>
+from collections import defaultdict<br>
+import math<br>
+import numpy as np<br>
+import pandas as pd<br>
+from numba import jit<br>
+from sklearn.metrics import precision_score, recall_score<br>
+from sklearn.model_selection import train_test_split<br>
+import openpyxl<br>
+import os<br>
+import warnings<br>
+from collections import Counter<br>
+from time import time
 ### SNR:
-from collections import Counter, defaultdict
-import random
-import numpy as np
-import math
-import pandas as pd
-import openpyxl
+from collections import Counter, defaultdict<br>
+import random<br>
+import numpy as np<br>
+import math<br>
+import pandas as pd<br>
+import openpyxl<br>
 import os
 
 ## Datasets
